@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @TomasBirchmeier
-- 👀 I’m interested in Econometrics and data analyst
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hola, soy @TomasBirchmeier
+- 👀 Estoy interesado en Business analyst y el mundo de la programación
+- 🌱 Estoy actualmente estudiando Ingenieria Comercial en la Pontificia Universidad Católica de Chile
 - 📫 How to reach me ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love maths
 
 <!---
